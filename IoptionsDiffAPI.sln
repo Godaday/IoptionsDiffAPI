@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoptionsDiffAPI", "IoptionsDiffAPI.csproj", "{5AE46CA1-51AA-48AB-B3E2-BF5FD6291A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE46CA1-51AA-48AB-B3E2-BF5FD6291A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE46CA1-51AA-48AB-B3E2-BF5FD6291A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE46CA1-51AA-48AB-B3E2-BF5FD6291A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE46CA1-51AA-48AB-B3E2-BF5FD6291A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B5D8B2-0317-4182-A30B-BD7BB1D42302}
+	EndGlobalSection
+EndGlobal

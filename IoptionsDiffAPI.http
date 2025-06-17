@@ -1,0 +1,6 @@
+@IoptionsDiffAPI_HostAddress = http://localhost:5283
+
+GET {{IoptionsDiffAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
